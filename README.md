@@ -1,4 +1,4 @@
-# Get the next UK holiday - Varian 1
+# Get the next UK holiday - Variant 1
 UiPath Project
 
 ## Purpose
